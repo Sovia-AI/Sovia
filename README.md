@@ -1,8 +1,11 @@
-# Sovia-GitHub Backend
+# **Sovia**
 
 ## Overview
 
 **Sovia** is ana AI agent and analysis framework. It provides advanced agent chat, market/crypto analysis, and a wide range of integrations (Solana, Birdeye, Coingecko, Twitter, Weather, Petfinder, and more) via a simple CLI—no frontend required.
+
+
+![photo_2025-05-09_16-40-27](https://github.com/user-attachments/assets/a6609b62-3c5f-4335-bf1c-2dc29a9c9f08)
 
 ## Features
 - **Agent Chat**: Interact with the Sovia agent in your terminal.
