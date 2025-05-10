@@ -1,0 +1,27 @@
+{
+  "name": "sovia-github-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "cli.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node cli.js",
+    "cli": "node cli.js"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.98.2",
+    "axios": "^1.9.0",
+    "buffer": "^6.0.3",
+    "commander": "^12.0.0",
+    "dotenv": "^16.5.0",
+    "openai": "^4.28.4",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^6.1.1",
+    "@types/node": "^22.15.17",
+    "typescript": "^5.5.3"
+  }
+}
